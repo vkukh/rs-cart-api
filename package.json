@@ -10,6 +10,7 @@
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
+    "deploy": "npm run build && sls deploy",
     "start-aws-offline": "sls offline",
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
