@@ -28,6 +28,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Integrating Nest.js application with serverless system
+
 ## Installation
 
 ```bash
